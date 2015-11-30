@@ -1,4 +1,5 @@
-										###A study of security rules in Android : A Technical report###
+A study of security rules for Android
+=====================================
 
 
 # Abstract #
