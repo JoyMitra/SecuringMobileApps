@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- <item
+        android:id="@+id/item_show_contact"
+        android:title="@string/menu2">
+    </item>
+    <item 
+        android:id="@+id/stop_sms_service" 
+        android:title="@string/menu3">
+    </item>
+    <item 
+        android:id="@+id/about_app" 
+        android:title="@string/menu4"></item> -->
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yell For Help (YELFP)</string>
+    <string name="action_settings"></string>
+    <string-array name="main_menu_list_arr">
+         <item>Add Contact</item>
+    	 <item>View Contacts</item>
+    	 <item>Stop SMS</item>
+    	 <item>About The App</item>
+    	 <item>About Us</item>
+    </string-array> 
+    
+   
+   
+    <string name="title_activity_app_info">About YELP</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="title_activity_contact">Contact List</string>
+    <string name="dlt_contact_txt">Delete Contact</string>
+    <string name="txt_view_txt">TextView</string>
+    <string name="about_us_head">Designed and Developed By:</string>
+    <string name="dev_1">Joy Mitra</string>
+    <string name="dev_2">Neel Roy</string>
+    <string name="dev_3">Jay Chak</string>
+
+    
+     <string name="aboutApp">YELFP is an app developed to help people in distress. It enables people to call out for help just with a click of a button. All one has to do is add five of their closest people to our contact list. An SOS will be sent to them with current location updates. The app will also help people to place a call to the Police Station nearest to their current location.Please Note that the app requires internet connectivity. GPS is not required but is recommended for greater accuracy.
+Also, be sure to select the Stop SMS option from the menu after you are done using the app to prevent the app from sending SMSes with every location change
+        </string>
+    
+</resources>
